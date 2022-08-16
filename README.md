@@ -10,8 +10,4 @@
 
 ## my idea
 
-- wait to add
-
-
-
-
+- I want to record my informal essay and diary.
