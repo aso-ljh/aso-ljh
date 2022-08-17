@@ -4,7 +4,7 @@
 
 -  Hi, I'm aso-ljh.
 
-- I'm *a strange object*  called LJH.
+- I'm *a strange object*  called [LJH](https://github.com/aso-ljh).
 
 - I like learning.
 
