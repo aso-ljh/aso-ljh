@@ -10,4 +10,4 @@
 
 ## my idea
 
-- I want to record my informal essay and diary.
+- I want to record my [informal essay](https://github.com/aso-ljh/aso-ljh/blob/main/my%20informal%20essay.md) and diary.
